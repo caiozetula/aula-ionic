@@ -1,0 +1,7 @@
+{
+  "name": "aulaIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
